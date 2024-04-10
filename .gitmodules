@@ -1,0 +1,3 @@
+[submodule "coredns-pdsql"]
+	path = coredns-pdsql
+	url = git@github.com:InnovacationSRL/coredns-pdsql.git
