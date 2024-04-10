@@ -56,4 +56,6 @@ import (
 	_ "github.com/coredns/coredns/plugin/tsig"
 	_ "github.com/coredns/coredns/plugin/view"
 	_ "github.com/coredns/coredns/plugin/whoami"
+	_ "github.com/jinzhu/gorm/dialects/postgres"
+	_ "github.com/wenerme/coredns-pdsql"
 )
