@@ -6,3 +6,4 @@ Corefile
 build/
 release/
 vendor/
+.DS_Store
